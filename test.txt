@@ -1,0 +1,24 @@
+Python 3.4.4 (v3.4.4:737efcadf5a6, Dec 20 2015, 20:20:57) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: D:\informatique\Master\Resys\S1\Crypto\tp2\Puzzle.py =======
+Hashage SHA1
+--------------
+Y     :  03b1663dda6549a0939ffdd712a852e0d4234e6b
+ID    :  SADOUN HABIB
+X     :  
+ID||X :  SADOUN HABIB
+compt :  6
+H     :  0041f97253234b06bed94c2ba2522e4c7f83e17f
+
+
+
+Hashage SHA256
+--------------
+Y     :  00005d10cc11e27bd8d4d1ce91bc725665ddbaa6ca2498ef38a88a58ad48cdb4
+ID    :  SADOUN HABIB
+X     :  㬉
+ID||X :  SADOUN HABIB㬉
+compt :  15113
+H     :  000041e067acf23b2ec96155ed1089d9a1f1011ce2a8ba91998e8003ef03b24e
+>>> 
